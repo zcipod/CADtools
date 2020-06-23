@@ -1,0 +1,19 @@
+F:\my documents\Visual Studio 2008\Projects\CADtools\CADtools\obj\Debug\ResolveAssemblyReference.cache
+F:\my documents\Visual Studio 2008\Projects\CADtools\CADtools\bin\Debug\readme.txt
+F:\my documents\Visual Studio 2008\Projects\CADtools\CADtools\bin\Debug\start.scr
+F:\my documents\Visual Studio 2008\Projects\CADtools\CADtools\bin\Debug\CADtools.dll
+F:\my documents\Visual Studio 2008\Projects\CADtools\CADtools\bin\Debug\CADtools.pdb
+F:\my documents\Visual Studio 2008\Projects\CADtools\CADtools\obj\Debug\CADtools.dll
+F:\my documents\Visual Studio 2008\Projects\CADtools\CADtools\obj\Debug\CADtools.pdb
+F:\my documents\Visual Studio 2008\Projects\CADtools\CADtools\obj\Debug\CADtools.Form1.resources
+F:\my documents\Visual Studio 2008\Projects\CADtools\CADtools\obj\Debug\CADtools.csproj.GenerateResource.Cache
+F:\my documents\Visual Studio 2008\Projects\CADtools\CADtools\bin\Debug\DotNetARX.dll
+E:\软件编程\Projects\CADtools\CADtools\bin\Debug\readme.txt
+E:\软件编程\Projects\CADtools\CADtools\bin\Debug\start.scr
+E:\软件编程\Projects\CADtools\CADtools\bin\Debug\CADtools.dll
+E:\软件编程\Projects\CADtools\CADtools\bin\Debug\CADtools.pdb
+E:\软件编程\Projects\CADtools\CADtools\obj\Debug\ResolveAssemblyReference.cache
+E:\软件编程\Projects\CADtools\CADtools\obj\Debug\CADtools.Form1.resources
+E:\软件编程\Projects\CADtools\CADtools\obj\Debug\CADtools.csproj.GenerateResource.Cache
+E:\软件编程\Projects\CADtools\CADtools\obj\Debug\CADtools.dll
+E:\软件编程\Projects\CADtools\CADtools\obj\Debug\CADtools.pdb
